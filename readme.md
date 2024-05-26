@@ -1,8 +1,11 @@
-# Hi 👋, I'm Rupsa Das
-
 <p>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=rupsa45.yourrepository" alt="Profile Views">
+  <img align="right"  src="https://visitor-badge.laobi.icu/badge?page_id=rupsa45.yourrepository" alt="Profile Views">
 </p>
+
+<h1>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rupsa+Das!;" />
+</h1>
+
 
 - 🔭 I’m currently working on personal projects to enhance my resume.
 - 🌱 I’m diving deep into Data Structures and Algorithms (DSA) in Java and backend development with JavaScript.
@@ -34,6 +37,7 @@
 <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="c" width="40" height="40"/> </a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/django/django-plain.svg" alt="django" width="40" height="40"/> </a>
 
 ## Tools:
 
