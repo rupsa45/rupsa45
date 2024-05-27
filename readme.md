@@ -16,9 +16,10 @@
 
 ## Connect with me:
 
-<a href="[https://www.linkedin.com/in/rupsa-das-96b26b231/" target="blank](https://www.linkedin.com/in/rupsa-das-96b26b231/)"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rupsadas" height="20" width="40" /></a>
-<a href="[https://leetcode.com/u/rupsa45/" target="blank](https://leetcode.com/u/rupsa45/)"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rupsadas" height="20" width="40" /></a>
-<a href="https://discord.com/channels/@me/946995170744873002" target="blank](https://discord.com/channels/@me/946995170744873002)"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rupsadas" height="20" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/rupsa-das-96b26b231/" target="_blank" > <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rupsadas" height="20" width="40"/> </a>
+<a href="https://leetcode.com/u/rupsa45/" target="_blank" > <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rupsadas" height="20" width="40"/> </a>
+<a href="https://discord.com/channels/@me/946995170744873002" target="_blank" > <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rupsadas" height="20" width="40"/> </a>
 
 ## Languages:
 
@@ -43,6 +44,7 @@
 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/fcafa5ebc1f5f789ae7d012a3ecd8fe7bda49516591caf7c37698f764165d880/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="git" width="40" height="40"/> </a>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/a13ca5b988ada41839ebe4f88455e63419a1b56fcb5eda207794cd1649a61d2c/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" alt="postman" width="40" height="40"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vscode/vscode-original-wordmark.svg" alt="postman" width="40" height="40"/> </a>
 
 
 ## Most Used Languages
@@ -52,3 +54,7 @@
 ## Rupsa Das' GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rupsa45&show_icons=true&theme=dark)
+
+
+## Rupsa Das' GitHub streak stats
+![GitHub streak stats](https://streak-stats.demolab.com/?user=rupsa45&theme=dark)  
