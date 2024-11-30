@@ -50,11 +50,3 @@
 ## Most Used Languages
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rupsa45&layout=compact&theme=dark)
-
-## Rupsa Das' GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rupsa45&show_icons=true&theme=dark)
-
-
-## Rupsa Das' GitHub streak stats
-![GitHub streak stats](https://streak-stats.demolab.com/?user=rupsa45&theme=dark)  
