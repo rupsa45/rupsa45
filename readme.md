@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on personal projects to enhance my resume.
 - 🌱 I’m diving deep into Data Structures and Algorithms (DSA) in Java and backend development with JavaScript.
 - 👯 I’m looking to collaborate on exciting web development projects.
-- 👨‍💻 You can check out all of my projects on my [Portfolio](https://rupsadas.netlify.app/).
+- 👨‍💻 You can check out all of my projects on my [Portfolio](https://rupsadas.vercel.app/).
 - 💬 Feel free to ask me about React, JavaScript, and some about DSA.
 - 📫 Reach me at: dasrupsa831@gmail.com
 
