@@ -50,14 +50,13 @@
 # 📊 GitHub Stats:
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=rupsa45)
 <br/>
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rupsa45&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rupsa45&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_border=true)
+
 
 
 ![](https://nirzak-streak-stats.vercel.app/?user=rupsa45&theme=dark&hide_border=false)<br/>
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rupsa45&layout=compact)
-
 [![](https://visitcount.itsvg.in/api?id=rupsa45&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
