@@ -50,7 +50,7 @@
 # 📊 GitHub Stats:
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=rupsa45)
 <br/>
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_border=true&cache_seconds=1800)
+![Stats](https://github-readme-stats.vercel.app/api?username=rupsa45&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_border=true&cache_seconds=1800)
 
 
 
