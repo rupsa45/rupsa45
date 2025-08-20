@@ -56,7 +56,6 @@
 ![Pull Requests](https://img.shields.io/github/issues-pr/rupsa45/REPO_NAME?color=blue&logo=github)
 
 
-![](https://nirzak-streak-stats.vercel.app/?user=rupsa45&theme=dark&hide_border=false)<br/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rupsa45&icon=0&color=0)](https://visitcount.itsvg.in)
