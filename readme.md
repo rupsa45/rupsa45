@@ -48,7 +48,7 @@
 
 
 # 📊 GitHub Stats:
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=rupsa45)
 <br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=rupsa45&theme=dark&hide_border=false)<br/>
 
