@@ -48,7 +48,7 @@
 
 
 # 📊 GitHub Stats:
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=rupsa45)
+
 <br/>
 ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=rupsa45&theme=dark&hide_border=true)
 
@@ -56,7 +56,7 @@
 
 ![Pull Requests](https://img.shields.io/github/issues-pr/rupsa45/REPO_NAME?color=blue&logo=github)
 
-![Metrics](https://github.com/rupsa45/rupsa45/blob/main/github-metrics.svg)
+
 
 
 ---
