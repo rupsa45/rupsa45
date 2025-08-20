@@ -49,7 +49,6 @@
 
 # 📊 GitHub Stats:
 
-<br/>
 ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=rupsa45&theme=dark&hide_border=true)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rupsa45&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
