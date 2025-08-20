@@ -56,6 +56,7 @@
 
 ![Pull Requests](https://img.shields.io/github/issues-pr/rupsa45/REPO_NAME?color=blue&logo=github)
 
+![Metrics](https://github.com/rupsa45/rupsa45/blob/main/github-metrics.svg)
 
 
 ---
