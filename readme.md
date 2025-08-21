@@ -47,6 +47,10 @@
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vscode/vscode-original-wordmark.svg" alt="postman" width="40" height="40"/> </a>
 
 
+
+[![Aritra's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=/rupsa45&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/rupsa45)
+
+
 # 📊 GitHub Stats:
 
 ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=rupsa45&theme=dark&hide_border=true)
