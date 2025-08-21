@@ -48,16 +48,12 @@
 
 
 
-[![Rupsa's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=/rupsa45&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/rupsa45)
-
-
 # 📊 GitHub Stats:
 
 ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=rupsa45&theme=dark&hide_border=true)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rupsa45&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
 
-![Pull Requests](https://img.shields.io/github/issues-pr/rupsa45/REPO_NAME?color=blue&logo=github)
 
 
 
